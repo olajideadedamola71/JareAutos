@@ -1,0 +1,225 @@
+{
+  "cars": [
+    {
+      "type": "suv",
+      "year": "2017",
+      "make": "Lexus",
+      "model": "RX 350 F Sport",
+      "price": "₦47,000,000",
+      "mileage": "56,903 miles",
+      "features": [],
+      "status": "available",
+      "photos": [
+        "images/rx350-front.jpeg",
+        "images/rx350-front-side.jpeg",
+        "images/rx350-rear.jpeg",
+        "images/rx350-mileage.jpeg",
+        "images/rx350-fsport-2017-extra-01.jpeg",
+        "images/rx350-fsport-2017-extra-02.jpeg",
+        "images/rx350-fsport-2017-extra-03.jpeg",
+        "images/rx350-fsport-2017-extra-04.jpeg",
+        "images/rx350-fsport-2017-extra-05.jpeg",
+        "images/rx350-fsport-2017-extra-06.jpeg"
+      ]
+    },
+    {
+      "type": "suv",
+      "year": "2017",
+      "make": "Lexus",
+      "model": "RX 350",
+      "price": "₦47,000,000",
+      "mileage": "",
+      "features": [
+        "White exterior"
+      ],
+      "status": "available",
+      "photos": [
+        "images/rx350-white-2017-01.jpeg",
+        "images/rx350-white-2017-02.jpeg",
+        "images/rx350-white-2017-03.jpeg",
+        "images/rx350-white-2017-04.jpeg",
+        "images/rx350-white-2017-05.jpeg",
+        "images/rx350-white-2017-06.jpeg",
+        "images/rx350-white-2017-07.jpeg",
+        "images/rx350-white-2017-08.jpeg",
+        "images/rx350-white-2017-09.jpeg",
+        "images/rx350-white-2017-10.jpeg",
+        "images/rx350-white-2017-11.jpeg",
+        "images/rx350-white-2017-12.jpeg",
+        "images/rx350-white-2017-13.jpeg"
+      ]
+    },
+    {
+      "type": "sedan",
+      "year": "",
+      "make": "Mercedes-Benz",
+      "model": "C400",
+      "price": "₦25,000,000",
+      "mileage": "",
+      "features": [],
+      "status": "available",
+      "photos": [
+        "images/mercedes-c400-front.jpeg",
+        "images/mercedes-c400-side.jpeg",
+        "images/mercedes-c400-rear.jpeg"
+      ]
+    },
+    {
+      "type": "sedan",
+      "year": "2014",
+      "make": "Toyota",
+      "model": "Avalon XLE",
+      "price": "₦22,000,000",
+      "mileage": "",
+      "features": [],
+      "status": "available",
+      "photos": [
+        "images/avalon-2014-front.jpeg",
+        "images/avalon-2014-rear-side.jpeg",
+        "images/avalon-2014-rear.jpeg"
+      ]
+    },
+    {
+      "type": "sedan",
+      "year": "2014",
+      "make": "Toyota",
+      "model": "Camry LE",
+      "price": "₦10,000,000",
+      "mileage": "",
+      "features": [
+        "Few months used · LeDuty 2025",
+        "Engine, gear & A/C working perfectly"
+      ],
+      "status": "available",
+      "photos": [
+        "images/camry-2014-front.jpeg",
+        "images/camry-2014-rear.jpeg",
+        "images/camry-2014-rear-side.jpeg"
+      ]
+    },
+    {
+      "type": "suv",
+      "year": "2015",
+      "make": "Lexus",
+      "model": "RX 350 F Sport",
+      "price": "₦27,500,000",
+      "mileage": "",
+      "features": [],
+      "status": "available",
+      "photos": [
+        "images/rx350-fsport-2015-front.jpeg",
+        "images/rx350-fsport-2015-rear.jpeg",
+        "images/rx350-fsport-2015-front-interior.jpeg",
+        "images/rx350-fsport-2015-rear-interior.jpeg"
+      ]
+    },
+    {
+      "type": "suv",
+      "year": "2016",
+      "make": "Lexus",
+      "model": "RX 350 Premium",
+      "price": "₦52,000,000",
+      "mileage": "",
+      "features": [
+        "Panoramic roof"
+      ],
+      "status": "available",
+      "photos": [
+        "images/rx350-premium-front.jpeg",
+        "images/rx350-premium-side.jpeg",
+        "images/rx350-premium-rear.jpeg"
+      ]
+    },
+    {
+      "type": "suv",
+      "year": "2017",
+      "make": "Mercedes-Benz",
+      "model": "GLE 350",
+      "price": "₦42,000,000",
+      "mileage": "",
+      "features": [],
+      "status": "available",
+      "photos": [
+        "images/mercedes-gle350-front.jpeg",
+        "images/mercedes-gle350-rear.jpeg",
+        "images/mercedes-gle350-interior.jpeg"
+      ]
+    },
+    {
+      "type": "suv",
+      "year": "2017",
+      "make": "Mercedes-Benz",
+      "model": "GLE 43",
+      "price": "₦43,000,000",
+      "mileage": "",
+      "features": [
+        "Location: Ikeja, Lagos"
+      ],
+      "status": "available",
+      "photos": [
+        "images/mercedes-gle43-2017-06.jpeg",
+        "images/mercedes-gle43-2017-07.jpeg",
+        "images/mercedes-gle43-2017-08.jpeg",
+        "images/mercedes-gle43-2017-09.jpeg",
+        "images/mercedes-gle43-2017-10.jpeg",
+        "images/mercedes-gle43-2017-11.jpeg",
+        "images/mercedes-gle43-2017-01.jpeg",
+        "images/mercedes-gle43-2017-02.jpeg",
+        "images/mercedes-gle43-2017-03.jpeg",
+        "images/mercedes-gle43-2017-04.jpeg",
+        "images/mercedes-gle43-2017-05.jpeg"
+      ]
+    },
+    {
+      "type": "sedan",
+      "year": "Year to be confirmed",
+      "make": "Lexus",
+      "model": "ES 350",
+      "price": "₦16,500,000",
+      "mileage": "",
+      "features": [
+        "Red exterior · Beige interior",
+        "V6 engine"
+      ],
+      "status": "available",
+      "priceNote": "Negotiable",
+      "photos": [
+        "images/lexus-es350-rear.jpeg",
+        "images/lexus-es350-rear-detail.jpeg",
+        "images/lexus-es350-interior.jpeg",
+        "images/lexus-es350-engine.jpeg",
+        "images/lexus-es350-front-interior.jpeg"
+      ]
+    },
+    {
+      "type": "sedan",
+      "year": "2015",
+      "make": "Lexus",
+      "model": "ES 350",
+      "price": "₦19,500,000",
+      "mileage": "",
+      "features": [],
+      "status": "available",
+      "photos": [
+        "images/lexus-es350-2015-01.jpeg",
+        "images/lexus-es350-2015-02.jpeg",
+        "images/lexus-es350-2015-03.jpeg",
+        "images/lexus-es350-2015-04.jpeg",
+        "images/lexus-es350-2015-05.jpeg",
+        "images/lexus-es350-2015-06.jpeg",
+        "images/lexus-es350-2015-07.jpeg",
+        "images/lexus-es350-2015-08.jpeg",
+        "images/lexus-es350-2015-09.jpeg",
+        "images/lexus-es350-2015-10.jpeg",
+        "images/lexus-es350-2015-11.jpeg",
+        "images/lexus-es350-2015-12.jpeg",
+        "images/lexus-es350-2015-13.jpeg",
+        "images/lexus-es350-2015-14.jpeg",
+        "images/lexus-es350-2015-15.jpeg",
+        "images/lexus-es350-2015-16.jpeg",
+        "images/lexus-es350-2015-17.jpeg",
+        "images/lexus-es350-2015-18.jpeg"
+      ]
+    }
+  ]
+}
