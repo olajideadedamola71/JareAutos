@@ -1,0 +1,70 @@
+backend:
+  name: github
+  repo: Richard666-sketch/jareautos
+  branch: main
+
+media_folder: images
+public_folder: /images
+
+collections:
+  - name: inventory
+    label: Vehicle Inventory
+    files:
+      - name: cars
+        label: Cars
+        file: content/cars.json
+        fields:
+          - label: Cars
+            name: cars
+            widget: list
+            summary: "{{fields.year}} {{fields.make}} {{fields.model}} — {{fields.status}}"
+            fields:
+              - label: Vehicle type
+                name: type
+                widget: select
+                options:
+                  - { label: SUV, value: suv }
+                  - { label: Sedan, value: sedan }
+              - label: Year
+                name: year
+                widget: string
+                required: false
+              - { label: Make, name: make, widget: string }
+              - { label: Model, name: model, widget: string }
+              - { label: Price, name: price, widget: string }
+              - label: Price note
+                name: priceNote
+                widget: string
+                required: false
+              - label: Mileage
+                name: mileage
+                widget: string
+                required: false
+              - label: Features
+                name: features
+                widget: list
+                required: false
+                field:
+                  label: Feature
+                  name: feature
+                  widget: string
+              - label: Status
+                name: status
+                widget: car_status
+                default: available
+              - label: Photos
+                name: photos
+                widget: list
+                min: 1
+                field:
+                  label: Photo
+                  name: photo
+                  widget: image
+              - label: Photos to display without cropping
+                name: containPhotos
+                widget: list
+                required: false
+                field:
+                  label: Photo path
+                  name: photoPath
+                  widget: string
